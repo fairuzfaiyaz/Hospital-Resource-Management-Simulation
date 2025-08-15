@@ -2,6 +2,14 @@
 
 **Author:** Fairuz Faiyaz  
 
+### 🔧 Technologies
+- **Language**: C++
+- **Compiler**: Any standard C++ compiler (GCC, MSVC, or Clang)
+
+### Standard Libraries: 
+- **iostream**
+- **stack**
+- **string**
 ---
 
 ## 📌 Project Overview
